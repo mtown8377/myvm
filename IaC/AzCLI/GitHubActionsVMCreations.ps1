@@ -80,7 +80,7 @@ try {
         --name $serverName `
         --image win2016datacenter `
         --admin-username $adminLogin `
-        --admin-password $adminPassword
+        --admin-password 'Fjjvje@#$234jvjvjwGj2j3t'
     }
 catch {
     Write-Output "VM already exists!"
